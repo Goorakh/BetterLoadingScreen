@@ -1,0 +1,13 @@
+﻿{
+	"name": "BetterLoadingScreen",
+	"authorName": "Gorakh",
+	"displayName": "Better Loading Screen",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Goorakh/BetterLoadingScreen",
+	"description": "Accounts for more initialization in the loading screen. Reduces amount of time spent frozen on 100% when using lots of mods",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2113",
+		"RiskofThunder-HookGenPatcher-1.2.3",
+		"RiskofThunder-R2API_Core-5.0.11"
+	]
+}
